@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "sas",
+  "builds": [{ "src": "jsrender.py", "use": "@now/python" }]
+}
